@@ -1,0 +1,6 @@
+/***************
+ *  FaceDetect
+ *  by Timothy Liu and Tyge Tiessen
+ ***************/
+
+//	Apologies, I lost some of the framework code 3 years later... but the important aspects are contained in triangleApp.{h,cpp}.  The most difficult aspect was the threading for performance.
